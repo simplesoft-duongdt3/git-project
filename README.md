@@ -1,2 +1,2 @@
-# git-project
+# Git Project
 This is my git project.
